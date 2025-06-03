@@ -18,6 +18,8 @@
 
 **Cercle Mystique** transforme le célèbre jeu Loup-Garou en une expérience numérique immersive avec un système de thème jour/nuit adaptatif qui évolue selon les phases du jeu. Développé en Flutter avec Firebase, il offre une expérience multijoueur fluide pour 6 à 24 joueurs.
 
+Ce dépôt contient maintenant un projet Flutter minimal avec gestion de thème jour/nuit selon le plan de développement.
+
 ### ✨ Pourquoi Cercle Mystique ?
 
 - 🌅 **Thème Adaptatif** : Interface qui passe du jour à la nuit selon les phases de jeu
